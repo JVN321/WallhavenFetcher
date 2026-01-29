@@ -3,7 +3,7 @@
     "name": "Wallhaven Fetcher",
     "description": "Fetch and set random wallpapers from Wallhaven",
     "version": "1.0.0",
-    "author": "Antigravity",
+    "author": "JVN321 & Antigravity",
     "type": "widget",
     "component": "./WallhavenWidget.qml",
     "settings": "./WallhavenSettings.qml",
